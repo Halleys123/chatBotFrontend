@@ -1,0 +1,14 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "An app used to chat anonymously with anyone on the internet",
+  "main": "index.html",
+  "scripts": {
+    "test": "http-server --cors"
+  },
+  "author": "Arnav Chhabra",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
